@@ -1,0 +1,3 @@
+prebuild: false
+restart_on_upgrade: true 
+revision: 02
